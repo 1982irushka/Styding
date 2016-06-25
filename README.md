@@ -7,7 +7,5 @@ vvvvvvvvvv
 dfggggg
 ывввввввввввввввввв
 dfggggg
-ыввввввввввввввввввdfggggg
-ыввввввввввввввввввdfggggg
 
 
