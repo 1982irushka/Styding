@@ -1,6 +1,2 @@
 # Styding
-aaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbb
-ccccccccccccc
-dddddddddddd
-eeeeeeeeeeeee
+катя ира
