@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Styding
 aaaaaaaaaaaaaaaaaa
 =======
-навчаюся 52
+
+=======
+навчаюся 53
+>>>>>>> privyazka/master
 
 
 >>>>>>> irushka1982/master
